@@ -13,3 +13,6 @@ Os SGBDs são:
 3) MySQL.
 
 Faça uma aplicação que utilize o padrão adapter na qual o SGBD utilizado será determinado pelo perfil do usuário.  
+
+<img width="1220" height="846" alt="aula 10 diagrama" src="https://github.com/user-attachments/assets/6c90b256-1a93-4ca1-a89a-548f62f5c82e" />
+
